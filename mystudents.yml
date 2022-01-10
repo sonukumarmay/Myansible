@@ -1,0 +1,22 @@
+---
+- mystudents :
+   - name: prasad
+     phno: 888888888
+     address:
+       - doorno: 12
+       - street: 1st
+       - pincode: 121212
+
+   - name: rama
+     phno: 9999999999
+     address:
+      - doorno: 12
+      - street: 1st
+      - pincode: 121212
+
+   - name: sai
+     phno: 7777777777
+     address:
+      - doorno: 12
+      - street: 1st
+      - pincode: 121212

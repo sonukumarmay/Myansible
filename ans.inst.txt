@@ -1,0 +1,12 @@
+Ansible is a simple IT automation tool that makes your application and system easier to deplay.
+it supports in configuration management.
+it uses playbooks(uaml) to create Infrastructure as code for deploy applications in various envs(dev,test,prod).
+
+Why Ansible?
+- it is a free open source application.
+- Agent-less
+- No databse
+- Highly flexible
+- custom modules
+- configuration rollback in case of error
+- self documenting
